@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "356432298976",
+    "firebase_url": "https://unity-testing-3e5fd.firebaseio.com",
+    "project_id": "unity-testing-3e5fd",
+    "storage_bucket": "unity-testing-3e5fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356432298976:android:859ca443244e1937f8a185",
+        "android_client_info": {
+          "package_name": "com.Tuohino.Playground"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356432298976-cs3h6o12a6lfla8vo0bsjv3msevlk3vs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgdEo3k4UEflspzRrTJ7Uc3ZClJzF5OqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356432298976-cs3h6o12a6lfla8vo0bsjv3msevlk3vs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
