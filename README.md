@@ -1,5 +1,5 @@
 # Playground
-
+This repository is a single Unity project containing multiple small projects and tests.
 
 ## Art
 A tiny artsy project, it generates images similar to this
