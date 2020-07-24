@@ -426,7 +426,7 @@ public class NeuralNetwork : MonoBehaviour
 
             for (int i = 0; i < 10; i++)
             {
-                Debug.Log(outputLayer.neurons[i].value);
+                //Debug.Log(outputLayer.neurons[i].value);
                 if (outputLayer.neurons[i].value > certainty)
                 {
                     certainty = outputLayer.neurons[i].value;

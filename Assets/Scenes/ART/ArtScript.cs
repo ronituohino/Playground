@@ -41,7 +41,7 @@ public class ArtScript : MonoBehaviour
             for (int x = 0; x < vertGridSize; x++)
             {
                 vertexArray[x, y] = new Vector3(x * cellUnitWorld.x, y * cellUnitWorld.y, 0) + 
-                    new Vector3(Random.Range(cellUnitWorld.x * 0.5f, cellUnitWorld.y * 0.5f), Random.Range(cellUnitWorld.x * 0.5f, cellUnitWorld.y * 0.5f), 0);
+                    new Vector3(Random.Range(-cellUnitWorld.x * 0.33f, cellUnitWorld.x * 0.33f), Random.Range(-cellUnitWorld.y * 0.33f, cellUnitWorld.y * 0.33f), 0);
             }
         }
 
