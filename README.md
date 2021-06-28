@@ -48,13 +48,19 @@ I was fascinated by this algorithm and I tried to create my own copy of it. It d
 Here are two samples and the solutions my code generates.
 
 Input 1
+
 ![start1](https://user-images.githubusercontent.com/42767842/123675276-3481ca00-d84b-11eb-8bac-927527d58ca3.png)
+
 Result 1
+
 https://user-images.githubusercontent.com/42767842/123675284-364b8d80-d84b-11eb-84ad-d135c905d368.mp4
 
 Input 2
+
 ![start2](https://user-images.githubusercontent.com/42767842/123675397-55e2b600-d84b-11eb-8683-aba72136db81.png)
+
 Result 2
+
 https://user-images.githubusercontent.com/42767842/123675407-58dda680-d84b-11eb-9c8c-3f9099915b50.mp4
 
 
