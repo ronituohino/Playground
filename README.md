@@ -34,10 +34,12 @@ https://user-images.githubusercontent.com/42767842/123675097-043a2b80-d84b-11eb-
 ## NN
 My attempt at creating a neural network from scratch. I tried to solve the problem of recognizing hand-drawn numbers.
 
-![sample](/GitHub-Material/nn.png)
+![nn](https://user-images.githubusercontent.com/42767842/123675660-a9ed9a80-d84b-11eb-8de4-241949cd9efe.png)
 
 It was a big failure!
-![answer](/GitHub-Material/nn2.png)
+
+![nn2](https://user-images.githubusercontent.com/42767842/123675666-ac4ff480-d84b-11eb-8147-e75423c52b33.png)
+
 
 
 
@@ -51,7 +53,7 @@ Input 1
 
 ![start1](https://user-images.githubusercontent.com/42767842/123675276-3481ca00-d84b-11eb-8bac-927527d58ca3.png)
 
-Result 1
+Result 1, the grey tiles are tiles that the algorithm didn't find a solution to.
 
 https://user-images.githubusercontent.com/42767842/123675284-364b8d80-d84b-11eb-84ad-d135c905d368.mp4
 
